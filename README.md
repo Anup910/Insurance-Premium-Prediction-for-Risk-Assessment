@@ -8,15 +8,27 @@ The project is designed to develop a machine learning pipeline for predicting in
 Features from the dataset:
 
 1.PolicyID: A unique identifier for each insurance policy.
+
 2.Exposure: The duration of time a policy was active and exposed to risk.
+
 3.ClaimNb: The number of claims made during the exposure period.
+
 4.ClaimAmount: The total cost of claims during the exposure period.
+
 5.ClaimFreq: Frequency of claims (possibly derived as ClaimNb/Exposure).
+
 6.ClaimSev: Severity of claims, often representing average claim amount per claim.
+
 7.DriverAge: The age of the driver associated with the policy.
+
 8.CarAge: The age of the insured vehicle.
+
 9.Power: The power or engine capacity of the vehicle.
+
 10.Brand: The manufacturer or brand of the vehicle.
+
 11.Gas: The type of fuel used by the vehicle (e.g., petrol, diesel).
+
 12.Region: The geographical region where the policyholder resides.
+
 13.Density: Population density of the policyholder's region
